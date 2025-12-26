@@ -1,0 +1,10 @@
+GENRE FINE REVENUE
+------------------
+SciFi: $11.25
+Fantasy: $10.00
+Textbook: $47.00
+
+SEVERE DELAYS (> 30 Days)
+------------------------
+1984 (35 days)
+Calculus (45 days)
